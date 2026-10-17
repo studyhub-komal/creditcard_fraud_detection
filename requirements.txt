@@ -1,7 +1,7 @@
-streamlit>=1.35
+streamlit
 pandas
 numpy
-scikit-learn==1.6.1
+scikit-learn
 joblib
 altair==6.3.0
 anyio==4.15.1
